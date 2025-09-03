@@ -1,0 +1,13 @@
+{
+  "name": "Mindsight",
+  "short_name": "Mindsight",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0e1116",
+  "theme_color": "#0e1116",
+  "description": "Guided breathing, timers, soundscapes, and journaling. Private by design.",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
